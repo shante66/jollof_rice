@@ -10,9 +10,10 @@ The Nigerian replied
 The Senegalese cuts in and started explaining the origin of Jollof rice. The Senegalese explained that Jollof rice originated from Senegal since it was the name of an ancient senegalese empire.
 
 An argument ensued which got the South African interested: 
->Well, if the Jollof rice came from Senegal and the Nigerian and adapted it, then it must be open source!
+>Well, if the Jollof rice came from Senegal and the Nigerians adapted it, then it must be open source!
 
 Said the South African.
+**QED 
 
 Nigerian Jollof:
 
